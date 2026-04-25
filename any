@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name — Web Designer</title>
+  <style>
+    body { font-family: Arial; max-width: 800px; 
+           margin: 0 auto; padding: 20px; }
+    h1 { color: #6C63FF; }
+    .card { border: 1px solid #ddd; border-radius: 10px;
+            padding: 20px; margin: 10px 0; }
+    a { color: #6C63FF; }
+  </style>
+</head>
+<body>
+  <h1>Hi, I'm [Your Name] 👋</h1>
+  <p>I build websites for small businesses in Hyderabad & across India.</p>
+  <p>📞 WhatsApp: +91 XXXXXXXXXX</p>
+  
+  <h2>My Work</h2>
+  
+  <div class="card">
+    <h3>Demo — Restaurant Website</h3>
+    <p>Order system, menu, gallery</p>
+    <a href="#">View Demo →</a>
+  </div>
+
+  <div class="card">
+    <h3>Demo — Boutique Website</h3>
+    <p>Products, gallery, contact form</p>
+    <a href="#">View Demo →</a>
+  </div>
+</body>
+</html>
